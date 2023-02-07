@@ -1,0 +1,27 @@
+.card-title {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.card-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-img {
+  width: 80px;
+  height: 80px;
+}
+.card-container {
+  margin: 10px;
+  list-style-type: none;
+  width: 35%;
+}
